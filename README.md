@@ -1,12 +1,44 @@
-# React + Vite
+📋 React Form Table Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **Form + Table Management Website** built using **React.js, TailwindCSS, HTML, and CSS**.
+It allows users to **submit details through a form** and displays them in a table with options to **edit or delete** records.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo & Repository
 
-## Expanding the ESLint configuration
+* 🌐 **Live Demo:** [View Website](https://form-table-delta.vercel.app)
+* 📂 **GitHub Repo:** [form-table-website](https://github.com/Karthikthangadurai/Form-Table)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+* ✅ Add user details (Name & Email) using a simple form
+* ✅ Display submitted details in a table format
+* ✅ Edit existing records (pre-fills form for easy editing)
+* ✅ Delete records instantly if entered incorrectly
+* ✅ Responsive UI built with TailwindCSS
+
+---
+
+## 🛠️ Tech Stack
+
+* **React.js** – Component-based frontend
+* **TailwindCSS** – Utility-first styling
+* **HTML & CSS** – Structure & custom styles
+---
+
+## 🎯 How It Works
+
+1. Enter your **Name** and **Email** in the form.
+2. Click **Submit** → The details appear in the table.
+3. Use the **Edit** button to modify existing details (auto-fills the form).
+4. Use the **Delete** button to remove a record if entered incorrectly.
+
+---
+
+## 👨‍💻 Author
+
+* Developed by [Karthik T](https://github.com/Karthikthangadurai)
+
